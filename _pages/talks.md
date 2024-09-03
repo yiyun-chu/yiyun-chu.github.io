@@ -4,6 +4,7 @@ title: "Presentations"
 permalink: /presentation/
 author_profile: true
 ---
+
 ### Conference Presentations:
 - **Statistical Challenges in Electronic Commerce Research**, 2024
 - **INFORMS Annual Meeting**, 2024
@@ -11,4 +12,4 @@ author_profile: true
 - **Statistical Challenges in Electronic Commerce Research**, 2023
 
 ### Invited Talks:
-- Guest Lecturer, Managing Digital Transformation, 2024
+- *Guest Lecturer*, Managing Digital Transformation, 2024
