@@ -1,12 +1,10 @@
 ---
+layout: single
 title: "Teaching Experience"
-collection: teaching
-type: "Undergraduate/Graduate Courses"
-permalink: /teaching/teaching_exp
-venue: "Carnegie Mellon University, Heinz College"
-date: 2024-01-01
-location: "Pittsburgh, PA"
+permalink: /teaching/teaching_exp/
 ---
+
+Undergraduate/Graduate Courses I worked as a Teaching Assistant or Instructor at Carnegie Mellon University, Heinz College.
 
 **Graduate Level Courses:**
 - 94823 Measuring Social (Fall 2023, Spring 2024, Fall 2024): advised teams in collaboration with 20+ corporate sponsors, including Nvidia, Nike, and PayPal, by responding to corporate prompts and facilitating the analysis of unstructured social data.
