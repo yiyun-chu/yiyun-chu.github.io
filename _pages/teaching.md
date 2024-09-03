@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Teaching Experience"
-permalink: /teaching/teaching_exp/
+permalink: /teaching/
 author_profile: true
 ---
 
