@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Yi-Yun (Athena) Chu is a Ph.D. student in Information Systems at Heinz College, Carnegie Mellon University. Prior to Ph.D., she obtained a dual Bachelor’s degree in Advertising and International Business from National Chengchi University ([NCCU](https://www.nccu.edu.tw)) and a Master’s degree in Management of Information Systems and Digital Innovation from the London School of Economics and Political Science ([LSE](https://www.lse.ac.uk)). Her research lies at the intersection of technology, business, and policy, focusing on the economics of information systems and consumer behavior on online platforms. By combining economic and machine learning methods, she analyzes large-scale data to inform platform strategies and improve social welfare.
+Yi-Yun (Athena) Chu is a Ph.D. student in Information Systems at Heinz College, Carnegie Mellon University. Prior to Ph.D., she obtained a dual Bachelor’s degree in Advertising and International Business from National Chengchi University ([NCCU](https://www.nccu.edu.tw)) and a Master’s degree in Management of Information Systems and Digital Innovation from the London School of Economics and Political Science ([LSE](https://www.lse.ac.uk)).
 
 Research Interests
 ======
