@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋🏻Hello there, I am Yi-Yun (Athena)!"
+title: "👋🏻Hello there, I am Yi-Yun (Athena) Chu!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -26,3 +26,8 @@ Work Experience & Professional Services
   Research Scientist Intern, Consumer Insight
 - Organizer of IS Student Presentations Over the Cloud (ISPOC) Seminar, 2023
 - Reviewer: ICIS (2023, 2024), CIST (2024), PACIS (2024)
+
+Awards
+------
+- CMU Presidential Fellowship, 2021-Present
+- CMU Graduate Student Assembly/Provost Conference Funding, 2022
