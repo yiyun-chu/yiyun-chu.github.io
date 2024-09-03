@@ -1,10 +1,10 @@
 ---
-layout: archive
+layout: single
 title: "Teaching Experience"
-permalink: /teaching/teaching_exp/
+permalink: /teaching/
 author_profile: true
 redirect_from: 
-  - /teaching
+  - /teaching/
 ---
 
 Undergraduate/Graduate Courses I worked as a Teaching Assistant or Instructor at Carnegie Mellon University, Heinz College.
