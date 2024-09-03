@@ -2,8 +2,8 @@
 title: "Teaching Experience"
 collection: teaching
 type: "Undergraduate/Graduate Courses"
-permalink: /teaching/2024-teaching
-venue: Carnegie Mellon University, Heinz College"
+permalink: /teaching/teaching_exp
+venue: "Carnegie Mellon University, Heinz College"
 date: 2024-01-01
 location: "Pittsburgh, PA"
 ---
