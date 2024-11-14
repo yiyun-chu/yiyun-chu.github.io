@@ -11,12 +11,16 @@ author_profile: true
 - **"Yelp Me If You Can: Online Reviews and the Future of Occupational Licensing"** <br/>
 *Yi-Yun Chu, Uttara M. Ananthakrishnan, and Michael D. Smith* <br/>
 Presented at Statistical Challenges in Electronic Commerce Research, 2024 <br/>
-Presented at Yale AIML Conference, 2024 <br/>
+Accepted at Yale AIML Conference, 2024 <br/>
 Prepared to submit to Management Science 
 
-- **"Multimodal Video Learning: Managing Cognitive Load Patterns using Guided Attention Graphs"** <br/>
+- **"Multimodal Video Learning in Online Education: Managing Cognitive Load Patterns using Guided Attention Graphs"** <br/>
 *Yi-Yun Chu, Zhe Deng, Wen Wang, and Pedro Ferreira*<br/>
+Presented  at Statistical Challenges in Electronic Commerce Research, 2024 <br/>
 Presented at Informs Annual Meeting, 2024
+
+- **Optimizing Student Engagement and Learning: Insights from Video Delivery and Cognitive Load Analysis in Courseware from Outlier.org**
+*Yi-Yun Chu, Mi Zhou, Pedro Ferreira and Michael D. Smith* <br/>
 
 - **"Ad Congruence on Viewer Engagement"** <br/>
 *Yi-Yun Chu, Liye Ma, and Uttara M. Ananthakrishnan*

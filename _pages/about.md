@@ -11,7 +11,7 @@ Yi-Yun (Athena) Chu is a Ph.D. student in Information Systems at Heinz College, 
 
 Research Interests
 ======
-Her research lies at the intersection of technology, business, and policy, focusing on the economics of information systems and consumer behavior on online platforms. By combining economic and machine learning methods, she analyzes large-scale data to inform platform strategies and improve social welfare.
+Her research lies at the intersection of technology, business, and policy, with a focus on the economics of information systems and consumer behavior on online platforms. By leveraging economic and machine learning methods, she analyzes large-scale, multimodal data to provide insights into regulatory impacts on consumer behavior, explore how technology is transforming educational delivery and credentialing for students and workers, and inform strategies to drive improvements in platform design that contribute to the broader societal benefits of digital transformation.
 
 Methodology
 ------
@@ -19,6 +19,7 @@ Methodology
 - Econometrics
 - Machine Learning
 - Natural Language Processing
+- Multimodal Video Analytics
 
 Work Experience & Professional Services
 ------
