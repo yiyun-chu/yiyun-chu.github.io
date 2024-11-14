@@ -10,14 +10,13 @@ author_profile: true
 
 - **"Yelp Me If You Can: Online Reviews and the Future of Occupational Licensing"** <br/>
 *Yi-Yun Chu, Uttara M. Ananthakrishnan, and Michael D. Smith* <br/>
-Presented at Statistical Challenges in Electronic Commerce Research, 2024 <br/>
-Accepted at Yale AIML Conference, 2024 <br/>
-Prepared to submit to Management Science 
+Presented at Statistical Challenges in Electronic Commerce Research 2024 <br/>
+Accepted at Yale AIML 2024 <br/>
+In preparation for submission to Management Science 
 
 - **"Multimodal Video Learning in Online Education: Managing Cognitive Load Patterns using Guided Attention Graphs"** <br/>
 *Yi-Yun Chu, Zhe Deng, Wen Wang, and Pedro Ferreira*<br/>
-Presented  at Statistical Challenges in Electronic Commerce Research, 2024 <br/>
-Presented at Informs Annual Meeting, 2024
+Presented at Statistical Challenges in Electronic Commerce Research 2024, Informs Annual Meeting 2024
 
 - **Optimizing Student Engagement and Learning: Insights from Video Delivery and Cognitive Load Analysis in Courseware from Outlier.org** <br/>
 *Yi-Yun Chu, Mi Zhou, Pedro Ferreira and Michael D. Smith*
@@ -27,6 +26,6 @@ Presented at Informs Annual Meeting, 2024
 
 - **"The Impact of Piracy Quality on Box Office Revenue"** <br/>
 *Yi-Yun Chu, Brett Danaher, and Michael D. Smith* <br/>
-Presented at Statistical Challenges in Electronic Commerce Research, 2023 <br/>
-Prepared to submit to Journal of Management Information Systems 
+Presented at Statistical Challenges in Electronic Commerce Research 2023 <br/>
+In preparation for submission to Journal of Management Information Systems 
 

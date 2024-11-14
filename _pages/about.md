@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋🏻Hello there, I am Yi-Yun (Athena) Chu!"
+title: "👋🏻Hello there, I am Yi-Yun (Athena) Chu 朱乙勻!"
 author_profile: true
 redirect_from: 
   - /about/
