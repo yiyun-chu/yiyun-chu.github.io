@@ -19,8 +19,8 @@ Prepared to submit to Management Science
 Presented  at Statistical Challenges in Electronic Commerce Research, 2024 <br/>
 Presented at Informs Annual Meeting, 2024
 
-- **Optimizing Student Engagement and Learning: Insights from Video Delivery and Cognitive Load Analysis in Courseware from Outlier.org**
-*Yi-Yun Chu, Mi Zhou, Pedro Ferreira and Michael D. Smith* <br/>
+- **Optimizing Student Engagement and Learning: Insights from Video Delivery and Cognitive Load Analysis in Courseware from Outlier.org** <br/>
+*Yi-Yun Chu, Mi Zhou, Pedro Ferreira and Michael D. Smith*
 
 - **"Ad Congruence on Viewer Engagement"** <br/>
 *Yi-Yun Chu, Liye Ma, and Uttara M. Ananthakrishnan*
