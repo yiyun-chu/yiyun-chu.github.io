@@ -22,7 +22,7 @@ Presented at Informs Annual Meeting, 2024
 - **Optimizing Student Engagement and Learning: Insights from Video Delivery and Cognitive Load Analysis in Courseware from Outlier.org** <br/>
 *Yi-Yun Chu, Mi Zhou, Pedro Ferreira and Michael D. Smith*
 
-- **"Ad Congruence on Viewer Engagement"** <br/>
+- **"Program-Ad Congruence in TV Advertising: A Multi-Genre Analysis of Thematic and Emotional Alignment Using Deep Learning Measures"** <br/>
 *Yi-Yun Chu, Liye Ma, and Uttara M. Ananthakrishnan*
 
 - **"The Impact of Piracy Quality on Box Office Revenue"** <br/>
