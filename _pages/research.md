@@ -22,10 +22,10 @@ Presented at Statistical Challenges in Electronic Commerce Research 2024, Inform
 *Yi-Yun Chu, Mi Zhou, Pedro Ferreira and Michael D. Smith*
 
 - **"Program-Ad Congruence in TV Advertising: A Multi-Genre Analysis of Thematic and Emotional Alignment Using Deep Learning Measures"** <br/>
-*Yi-Yun Chu, Liye Ma, and Uttara M. Ananthakrishnan*
+*Yi-Yun Chu, Liye Ma, Uttara M. Ananthakrishnan and Michael D. Smith* <br/>
 
 - **"The Impact of Piracy Quality on Box Office Revenue"** <br/>
 *Yi-Yun Chu, Brett Danaher, and Michael D. Smith* <br/>
 Presented at Statistical Challenges in Electronic Commerce Research 2023 <br/>
-In preparation for submission to Journal of Management Information Systems 
+Under review at Journal of Management Information Systems 
 
