@@ -24,7 +24,7 @@ Presented at Statistical Challenges in Electronic Commerce Research 2024, Inform
 - **"Program-Ad Congruence in TV Advertising: A Multi-Genre Analysis of Thematic and Emotional Alignment Using Deep Learning Measures"** <br/>
 *Yi-Yun Chu, Liye Ma, Uttara M. Ananthakrishnan and Michael D. Smith* <br/>
 
-- **"The Impact of Piracy Quality on Box Office Revenue"** <br/>
+- **"Blurred Lines: The Differential Impact of High-Quality and Low-Quality Piracy on Box Office Revenues"** <br/>
 *Yi-Yun Chu, Brett Danaher, and Michael D. Smith* <br/>
 Presented at Statistical Challenges in Electronic Commerce Research 2023 <br/>
 Under review at Journal of Management Information Systems 
