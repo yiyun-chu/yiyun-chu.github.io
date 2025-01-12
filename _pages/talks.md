@@ -12,5 +12,8 @@ author_profile: true
 - **Statistical Challenges in Electronic Commerce Research**, 2024
 - **Statistical Challenges in Electronic Commerce Research**, 2023
 
+### Tutorials:
+- **Digital Economics and AI Meeting**, 2025
+
 ### Invited Talks:
 - *Guest Lecturer*, Managing Digital Transformation, 2024
