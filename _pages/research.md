@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 - **"A Data-Driven Assessment of Political Messaging: Experimental Evidence from the 2024 US Elections"** <br/>
-*Yi-Yun Chu, Uttara M. Ananthakrishnan, Ananya Sen, and Ramayya Krishnan* <br/>
+*Yi-Yun Chu, Uttara M. Ananthakrishnan, Ramayya Krishnan, and Ananya Sen* <br/>
 Under review at Proceedings of the National Academy of Sciences (PNAS) <br/>
 [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5057627)] [[Code](https://github.com/yiyun-chu/PoliticalMessagingAnalysis)]  
 
@@ -22,7 +22,7 @@ Presented at Statistical Challenges in Electronic Commerce Research 2024, Inform
 - **Optimizing Student Engagement and Learning: Insights from Video Delivery and Cognitive Load Analysis in Courseware from Outlier.org** <br/>
 *Yi-Yun Chu, Mi Zhou, Pedro Ferreira and Michael D. Smith*
 
-- **"Program-Ad Congruence in TV Advertising: A Multi-Genre Analysis of Thematic and Emotional Alignment Using Deep Learning Measures"** <br/>
+- **"Program-Ad Congruence in TV Advertising: A Multi-Genre Analysis of Thematic and Emotional Congruence"** <br/>
 *Yi-Yun Chu, Liye Ma, Uttara M. Ananthakrishnan and Michael D. Smith* <br/>
 
 - **"Blurred Lines: The Differential Impact of High-Quality and Low-Quality Piracy on Box Office Revenues"** <br/>
