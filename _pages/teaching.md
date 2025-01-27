@@ -5,7 +5,7 @@ permalink: /teaching/teaching_exp
 author_profile: true
 ---
 
-Undergraduate/Graduate Courses I worked as a Teaching Assistant or Instructor at Carnegie Mellon University, Heinz College.
+Undergraduate/Graduate Courses. I worked as a Teaching Assistant or Instructor at Carnegie Mellon University, Heinz College.
 
 ### Graduate Level Courses:
 - **19-819/95-819 A/B Testing, Design, and Implementation** (Fall, 2024): Teaching Assistant
