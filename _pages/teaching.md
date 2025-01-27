@@ -9,8 +9,8 @@ Undergraduate/Graduate Courses I worked as a Teaching Assistant or Instructor at
 
 ### Graduate Level Courses:
 - **19-819/95-819 A/B Testing, Design, and Implementation** (Fall, 2024): Teaching Assistant
-- **94823 Measuring Social** (Fall 2023, Spring 2024, Fall 2024): advised teams in collaboration with 20+ corporate sponsors, including Nvidia, Nike, and PayPal, by responding to corporate prompts and facilitating the analysis of unstructured social data.
-- **95734 Managing Digital Business** (Fall 2024): Teaching Assistant
+- **94823 Measuring Social** (Fall 2023, Spring 2024, Fall 2024, Fall 2025): advised teams in collaboration with 20+ corporate sponsors, including Nvidia, Netflix, AWS, Nike, and PayPal, by responding to corporate prompts and facilitating the analysis of unstructured social data.
+- **95734 Managing Digital Business** (Fall 2024, Fall 2025): Teaching Assistant
 - **95722 Digital Transformation** (Fall 2022, Spring 2023): Teaching Assistant
 - **Introduction to Python Programming** (Summer 2024): Teaching Assistant
 - **Mathematics of Quantitative Skills Summer Program** (Summer 2023, Summer 2024): Preparatory Course in Mathematics for incoming Masters students. Instructor of weekly recitation.
