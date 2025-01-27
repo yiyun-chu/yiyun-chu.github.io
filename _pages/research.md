@@ -7,7 +7,8 @@ author_profile: true
 
 - **"A Data-Driven Assessment of Political Messaging: Experimental Evidence from the 2024 US Elections"** <br/>
 *Yi-Yun Chu, Uttara M. Ananthakrishnan, Ananya Sen, and Ramayya Krishnan* <br/>
-[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5057627); [GitHub](https://github.com/yiyun-chu/PoliticalMessagingAnalysis)  
+Under review at Proceedings of the National Academy of Sciences (PNAS) 
+\[SSRN\](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5057627) \[Code\](https://github.com/yiyun-chu/PoliticalMessagingAnalysis)  
 
 - **"Yelp Me If You Can: Online Reviews and the Future of Occupational Licensing"** <br/>
 *Yi-Yun Chu, Uttara M. Ananthakrishnan, and Michael D. Smith* <br/>

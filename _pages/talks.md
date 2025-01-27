@@ -13,7 +13,8 @@ author_profile: true
 - **Statistical Challenges in Electronic Commerce Research**, 2023
 
 ### Tutorials:
-- **Digital Economics and AI Meeting**, 2025
+- **[Digital Economics and AI Tutorial, 2025](https://www.nber.org/conferences/digital-economics-and-ai-tutorial-spring-2025)**
+- **[Digital Economics and AI Meeting, 2025](https://www.nber.org/conferences/digital-economics-and-ai-meeting-spring-2025)**
 
 ### Invited Talks:
 - *Guest Lecturer*, Managing Digital Transformation, 2024
