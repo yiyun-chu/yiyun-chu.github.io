@@ -7,7 +7,7 @@ author_profile: true
 
 - **"A Data-Driven Assessment of Political Messaging: Experimental Evidence from the 2024 US Elections"** <br/>
 *Yi-Yun Chu, Uttara M. Ananthakrishnan, Ramayya Krishnan, and Ananya Sen* <br/>
-Under review at Proceedings of the National Academy of Sciences (PNAS) <br/>
+Under review <br/>
 [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5057627)] [[Code](https://github.com/yiyun-chu/PoliticalMessagingAnalysis)]  
 
 - **"Yelp Me If You Can: Online Reviews and the Future of Occupational Licensing"** <br/>
@@ -28,5 +28,5 @@ Presented at Statistical Challenges in Electronic Commerce Research 2024, Inform
 - **"Blurred Lines: The Differential Impact of High-Quality and Low-Quality Piracy on Box Office Revenues"** <br/>
 *Yi-Yun Chu, Brett Danaher, and Michael D. Smith* <br/>
 Presented at Statistical Challenges in Electronic Commerce Research 2023 <br/>
-Under review at Journal of Management Information Systems 
+Under review
 
