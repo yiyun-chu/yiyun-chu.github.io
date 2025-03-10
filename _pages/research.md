@@ -10,7 +10,7 @@ author_profile: true
 - **"Yelp Me If You Can: Online Reviews and the Future of Occupational Licensing"** <br/>
   *Yi-Yun Chu, Uttara M. Ananthakrishnan, and Michael D. Smith* <br/>
   <span style="color:gray; font-size:0.85em;">Presented at Statistical Challenges in Electronic Commerce Research 2024, Yale AIML 2024 <br/>
-  <span style="color:gray; font-size:0.85em;">Scheduled to present at Biz AI 2025 (UTD), Marketing Science Conference 2025</span>
+  Scheduled to present at Biz AI 2025 (UTD), Marketing Science Conference 2025</span>
 
 - **Optimizing Student Engagement and Learning: Insights from Video Delivery and Cognitive Load Analysis in Courseware from Outlier.org** <br/>
   *Yi-Yun Chu, Mi Zhou, Pedro Ferreira, and Michael D. Smith*
@@ -21,12 +21,11 @@ author_profile: true
 
 ## Platform Strategy and Media Economics
 
-- **"A Data-Driven Assessment of Political Messaging: Experimental Evidence from the 2024 US Elections"** <br/>
+- **"Data-Driven Auditing of Black-Box AI Systems: An application to Political Campaigns"** <br/>
   *Yi-Yun Chu, Uttara M. Ananthakrishnan, Ramayya Krishnan, and Ananya Sen* <br/>
-  <span style="color:gray; font-size:0.85em;">Under review</span> <br/>
   [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5057627)] [[Code](https://github.com/yiyun-chu/PoliticalMessagingAnalysis)]  
 
-- **"Program-Ad Congruence in TV Advertising: A Multi-Genre Analysis of Thematic and Emotional Congruence"** <br/>
+- **"Thematic and Emotional Congruency in TV Advertising: A Multi-Modal Analysis of Engagement and Demand"** <br/>
   *Yi-Yun Chu, Liye Ma, Uttara M. Ananthakrishnan, and Michael D. Smith*  
   <span style="color:gray; font-size:0.85em;">Scheduled to present at Marketing Science Conference 2025</span>
 
