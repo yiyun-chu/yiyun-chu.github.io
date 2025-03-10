@@ -32,3 +32,4 @@ Awards
 ------
 - CMU Presidential Fellowship, 2021-Present
 - CMU Graduate Student Assembly/Provost Conference Funding, 2022
+- CMU Graduate Student Assembly/Provost Conference Funding, 2025
