@@ -7,22 +7,23 @@ author_profile: true
 
 ## Digital Credentials and Multimodal Machine Learning
 
-- **"Yelp Me If You Can: Online Reviews and the Future of Occupational Licensing"** <br/>
+- <span style="color:darygrey; font-size:1.2em;">**From Views to Value: A Multimodal Analysis of Video Engagement and Learning Outcomes in Online Education** </span> <br/>
+  <span style="color:black; font-size:1em;">**Yi-Yun Chu**, Pedro Ferreira, Mi Zhou, and Michael D. Smith </span> <br>
+  Scheduled to present at Statistical Challenges in Electronic Commerce Research 2025
+
+- **"Multimodal Video Learning in Online Education: Managing Cognitive Load Patterns using Guided Attention Graphs"** <br/>
+  *Yi-Yun Chu, Zhe Deng, Wen Wang, and Pedro Ferreira*<br/>
+  <span style="color:gray; font-size:0.85em;">Preliminary Result presented at Statistical Challenges in Electronic Commerce Research 2024, Informs Annual Meeting 2024</span> <br>
+  Scheduled to present at Statistical Challenges in Electronic Commerce Research 2025
+
+- **"Yelp Me If You Can: Rethinking Occupational Licensing through Online Reputation Systems"** <br/>
   *Yi-Yun Chu, Uttara M. Ananthakrishnan, and Michael D. Smith* <br/>
   <span style="color:gray; font-size:0.85em;">Presented at Statistical Challenges in Electronic Commerce Research 2024, Yale AIML 2024 <br/>
   Scheduled to present at Biz AI 2025 (UTD), ISMS Marketing Science Conference 2025</span>
 
-- **"Multimodal Video Learning in Online Education: Managing Cognitive Load Patterns using Guided Attention Graphs"** <br/>
-  *Yi-Yun Chu, Zhe Deng, Wen Wang, and Pedro Ferreira*<br/>
-  <span style="color:gray; font-size:0.85em;">Presented at Statistical Challenges in Electronic Commerce Research 2024, Informs Annual Meeting 2024</span>
-
-- **Optimizing Student Engagement and Learning: Insights from Video Delivery and Cognitive Load Analysis in Courseware from Outlier.org** <br/>
-  *Yi-Yun Chu, Mi Zhou, Pedro Ferreira, and Michael D. Smith*
-
-
 ## Platform Strategy and Media Economics
 
-- **"Data-Driven Auditing of Black-Box AI Systems: An application to Political Campaigns"** <br/>
+- **"Data-Driven Auditing of Black-Box AI Systems: An Application to Political Campaigns"** <br/>
   *Yi-Yun Chu, Uttara M. Ananthakrishnan, Ramayya Krishnan, and Ananya Sen* <br/>
   [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5057627)] [[Code](https://github.com/yiyun-chu/PoliticalMessagingAnalysis)]  
 
