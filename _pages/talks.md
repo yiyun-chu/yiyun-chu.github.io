@@ -9,6 +9,7 @@ author_profile: true
 - **Yale AIML Conference**, 2024
 - **INFORMS Annual Meeting**, 2024
     * Invited Sessions: AI Application in Education
+- **Statistical Challenges in Electronic Commerce Research**, 2025
 - **Statistical Challenges in Electronic Commerce Research**, 2024
 - **Statistical Challenges in Electronic Commerce Research**, 2023
 
