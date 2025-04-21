@@ -7,7 +7,7 @@ author_profile: true
 
 ## Digital Credentials and Multimodal Machine Learning
 
-- <span style="color:darygrey; font-size:1.2em;">**From Views to Value: A Multimodal Analysis of Video Engagement and Learning Outcomes in Online Education** </span> <br/>
+- <span style="color:darygrey; font-size:1.1em;">**From Views to Value: A Multimodal Analysis of Video Engagement and Learning Outcomes in Online Education** </span> <br/>
   <span style="color:black; font-size:1em;">**Yi-Yun Chu**, Pedro Ferreira, Mi Zhou, and Michael D. Smith </span> <br>
   Scheduled to present at Statistical Challenges in Electronic Commerce Research 2025
 
