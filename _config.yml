@@ -86,7 +86,7 @@ author:
   location         : "Pittsburgh, PA"
   employer         : "Carnegie Mellon University"
   pubmed           : 
-  googlescholar    : #"https://scholar.google.com/citations?user=UMKkDVwAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=KOor6M4AAAAJ&hl=en"
   email            : "yiyunchu@andrew.cmu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          : 
   wikipedia        :
+  ssrn             : https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=6306703
 
 
 # Reading Files

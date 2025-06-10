@@ -9,7 +9,7 @@ author_profile: true
 
 - <span style="color:#333333; font-size:1.1em;">**From Views to Value: A Multimodal Analysis of Video Engagement and Learning Outcomes in Online Education** </span> <br/>
   <span style="color:#333333; font-size:1em;">**Yi-Yun Chu**, Pedro Ferreira, Mi Zhou, and Michael D. Smith </span> <br>
-  <span style="color:gray; font-size:0.85em;">Scheduled to present at Statistical Challenges in Electronic Commerce Research 2025 </span>
+  <span style="color:gray; font-size:0.85em;">Scheduled to present at Statistical Challenges in Electronic Commerce Research 2025, BU Platform Strategy 2025, Informs 2025 </span>
 
 - <span style="color:#333333; font-size:1.1em;">**Multimodal Video Learning in Online Education: Managing Cognitive Load Patterns using Guided Attention Graphs**</span> <br/>
   <span style="color:#333333; font-size:1em;">**Yi-Yun Chu**, Zhe Deng, Wen Wang, and Pedro Ferreira</span><br/>
@@ -20,6 +20,9 @@ author_profile: true
   <span style="color:#333333; font-size:1em;">**Yi-Yun Chu**, Uttara M. Ananthakrishnan, and Michael D. Smith </span><br/>
   <span style="color:gray; font-size:0.85em;">Presented at Statistical Challenges in Electronic Commerce Research 2024, Yale AIML 2024 <br/>
   Scheduled to present at Biz AI 2025 (UTD), ISMS Marketing Science Conference 2025</span>
+  <span style="background-color:#e0e0e0; padding:0.1em 0.3em;">
+    Received George Duncan Award for Excellence in Doctoral Studies for the Second Research Paper, CMU, May 2025
+  </span>
 
 ## Platform Strategy and Media Economics
 
