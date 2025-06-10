@@ -21,7 +21,7 @@ author_profile: true
   <span style="color:gray; font-size:0.85em;">Presented at Statistical Challenges in Electronic Commerce Research 2024, Yale AIML 2024 <br/>
   Scheduled to present at Biz AI 2025 (UTD), ISMS Marketing Science Conference 2025</span> <br/>
   <span style="font-size:0.85em; background-color:#e0e0e0; padding:0.1em 0.3em;">
-    Received George Duncan Award for Excellence in Doctoral Studies for the Second Research Paper, CMU, May 2025
+    Received George Duncan Award for Excellence in Doctoral Studies, CMU, May 2025
   </span>
 
 ## Platform Strategy and Media Economics
