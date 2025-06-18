@@ -33,7 +33,7 @@ author_profile: true
   <span style="color:#333333; font-size:1em;">**Yi-Yun Chu**, Uttara M. Ananthakrishnan, Ramayya Krishnan, and Ananya Sen </span> <br/>
   [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5057627)] [[Code](https://github.com/yiyun-chu/PoliticalMessagingAnalysis)]  <br/>
   <span style="color:gray; font-size:0.85em;">Under Review at Information Systems Research </span><br/>
-  <span style="color:gray; font-size:0.85em;">Scheduled to present at Statistical Challenges in Electronic Commerce Research 2025 </span>
+  <span style="color:gray; font-size:0.85em;">Scheduled to present at SCECR 2025 </span>
 
 - <span style="color:#333333; font-size:1.1em;">**Thematic and Emotional Congruency in TV Advertising: A Multi-Modal Analysis of Engagement and Demand** </span><br/>
   <span style="color:#333333; font-size:1em;">**Yi-Yun Chu**, Liye Ma, Uttara M. Ananthakrishnan, and Michael D. Smith </span><br/>
