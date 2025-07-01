@@ -41,7 +41,7 @@ author_profile: true
 
 - <span style="color:#333333; font-size:1.1em;">**Blurred Lines: The Differential Impact of High-Quality and Low-Quality Piracy on Box Office Revenues** </span><br/>
   <span style="color:#333333; font-size:1em;">**Yi-Yun Chu**, Brett Danaher, and Michael D. Smith </span> <br/>
-  <span style="color:gray; font-size:0.85em;">Under <strong>1st round Major Revision</strong> at Journal of Management Information Systems <br/>
+  <span style="color:gray; font-size:0.85em;">Under Revision at Journal of Management Information Systems <br/>
   Presented at SCECR 2023</span>
 
 
