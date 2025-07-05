@@ -13,31 +13,29 @@ I am on the job market for 2025-2026.
 
 News
 ------
-    <span style="color:#444;font-weight:bold;">[Oct 2025]</span>
+  - <span style="color:#444;font-weight:bold;">[Oct 2025]</span>
     <span style="color:#888;"> Scheduled to present at INFORMS Annual Meeting</span>
 
-    <span style="color:#444;font-weight:bold;">[July 2025]</span>
+  - <span style="color:#444;font-weight:bold;">[July 2025]</span>
     <span style="color:#888;"> Scheduled to present at BU Platform Strategy</span>
 
-    <span style="color:#444;font-weight:bold;">[June 2025]</span>
+  - <span style="color:#444;font-weight:bold;">[June 2025]</span>
     <span style="color:#888;"> Awarded Daniel and Rise Nagin Dissertation Fellowships</span> <br/>
 
-    <span style="color:#444;font-weight:bold;">[June 2025]</span>
+  - <span style="color:#444;font-weight:bold;">[June 2025]</span>
     <span style="color:#888;"> Flash Session Winner award for the "<i>User Generated Content</i>" session, ISMS Marketing Science Conference</span><br/>
 
-    <span style="color:#444;font-weight:bold;">[May 2025]</span>
+  - <span style="color:#444;font-weight:bold;">[May 2025]</span>
     <span style="color:#888;"> George Duncan Second Research Paper Award, CMU</span><br/>
 
-    <span style="color:#444;font-weight:bold;">[May 2025]</span>
+  - <span style="color:#444;font-weight:bold;">[May 2025]</span>
     <span style="color:#888;"> Spending Summer 2025 as a Research Scientist Intern at Netflix</span><br/>
 
-    <span style="color:#444;font-weight:bold;">[Feb 2025]</span>
+  - <span style="color:#444;font-weight:bold;">[Feb 2025]</span>
     <span style="color:#888;"> Selected for NBER Digital Economics and AI Tutorial</span><br/>
 
-    <span style="color:#444;font-weight:bold;">[June 2024]</span>
+  - <span style="color:#444;font-weight:bold;">[June 2024]</span>
     <span style="color:#888;"> Spending Summer 2024 as a Research Scientist Intern at Netflix</span><br/>
-
-
 
 Work Experience & Professional Services
 ------
