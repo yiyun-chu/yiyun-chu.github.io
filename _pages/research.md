@@ -5,8 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-Research Interests
-======
 My research lies at the intersection of technology, business, and policy, with a focus on the economics of information systems and consumer behavior on online platforms. By leveraging economic and machine learning methods, I analyze large-scale, multimodal data to provide insights into regulatory impacts on consumer behavior, explore how technology is transforming educational delivery and credentialing for students and workers, and inform strategies to drive improvements in platform design that contribute to the broader societal benefits of digital transformation.
 
 **Methodology**: Causal Inference, Econometrics, Machine Learning, Natural Language Processing, Multimodal Video Analytics
