@@ -11,17 +11,33 @@ I am a Ph.D. student in Information Systems at Heinz College, Carnegie Mellon Un
 
 I am on the job market for 2025-2026.
 
-Research Interests
-======
-My research lies at the intersection of technology, business, and policy, with a focus on the economics of information systems and consumer behavior on online platforms. By leveraging economic and machine learning methods, I analyze large-scale, multimodal data to provide insights into regulatory impacts on consumer behavior, explore how technology is transforming educational delivery and credentialing for students and workers, and inform strategies to drive improvements in platform design that contribute to the broader societal benefits of digital transformation.
-
-Methodology
+News
 ------
-- Causal Inference
-- Econometrics
-- Machine Learning
-- Natural Language Processing
-- Multimodal Video Analytics
+    <span style="color:#444;font-weight:bold;">[Oct 2025]</span>
+    <span style="color:#888;"> Scheduled to present at INFORMS Annual Meeting</span>
+
+    <span style="color:#444;font-weight:bold;">[July 2025]</span>
+    <span style="color:#888;"> Scheduled to present at BU Platform Strategy</span>
+
+    <span style="color:#444;font-weight:bold;">[June 2025]</span>
+    <span style="color:#888;"> Awarded Daniel and Rise Nagin Dissertation Fellowships</span> <br/>
+
+    <span style="color:#444;font-weight:bold;">[June 2025]</span>
+    <span style="color:#888;"> Flash Session Winner award for the "<i>User Generated Content</i>" session, ISMS Marketing Science Conference</span><br/>
+
+    <span style="color:#444;font-weight:bold;">[May 2025]</span>
+    <span style="color:#888;"> George Duncan Second Research Paper Award, CMU</span><br/>
+
+    <span style="color:#444;font-weight:bold;">[May 2025]</span>
+    <span style="color:#888;"> Spending Summer 2025 as a Research Scientist Intern at Netflix</span><br/>
+
+    <span style="color:#444;font-weight:bold;">[Feb 2025]</span>
+    <span style="color:#888;"> Selected for NBER Digital Economics and AI Tutorial</span><br/>
+
+    <span style="color:#444;font-weight:bold;">[June 2024]</span>
+    <span style="color:#888;"> Spending Summer 2024 as a Research Scientist Intern at Netflix</span><br/>
+
+
 
 Work Experience & Professional Services
 ------
