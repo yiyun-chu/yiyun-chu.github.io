@@ -46,9 +46,9 @@ My research lies at the intersection of technology, business, and policy, with a
   <span style="color:gray; font-size:0.85em;">Presented at ISMS Marketing Science Conference 2025</span>
   
 
-- <span style="color:#333333; font-size:1.1em;">**Blurred Lines: The Differential Impact of High-Quality and Low-Quality Piracy on Box Office Revenues** </span><br/>
+- <span style="color:#333333; font-size:1.1em;">**The Incremental Effect of High-Quality Piracy Sources on Theatrical Revenues** </span><br/>
   <span style="color:#333333; font-size:1em;">**Yi-Yun Chu**, Brett Danaher, and Michael D. Smith </span> <br/>
-  <span style="color:gray; font-size:0.85em;">Under Revision at Journal of Management Information Systems <br/>
+  <span style="color:gray; font-size:0.85em;">Revise and Resubmit at Journal of Management Information Systems <br/>
   Presented at SCECR 2023</span>
 
 
