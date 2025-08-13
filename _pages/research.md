@@ -21,7 +21,7 @@ My research lies at the intersection of technology, business, and policy, with a
   <span style="color:gray; font-size:0.85em;">Presented at SCECR 2024, INFORMS Annual Meeting 2024, SCECR 2025 </span>
 
 
-- <span style="color:#333333; font-size:1.1em;">**Yelp Me If You Can: Rethinking Occupational Licensing through Online Reputation Systems** </span><br/>
+- <span style="color:#333333; font-size:1.1em;">**Evaluating Occupational Licensing through Online Consumer Reviews: Evidence from the Personal Care Services** </span><br/>
   <span style="color:#333333; font-size:1em;">**Yi-Yun Chu**, Uttara M. Ananthakrishnan, and Michael D. Smith </span><br/>
   <span style="color:gray; font-size:0.85em;">Presented at SCECR 2024, Yale AIML 2024, ISMS Marketing Science Conference 2025 <br/>
   Scheduled to present at Biz AI 2025 (UTD)</span> <br/>
