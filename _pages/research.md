@@ -13,8 +13,8 @@ My research lies at the intersection of technology, business, and policy, with a
 
 - <span style="color:#333333; font-size:1.1em;">**From Views to Value: A Multimodal Analysis of Video Engagement and Learning Outcomes in Online Education** </span> <br/>
   <span style="color:#333333; font-size:1em;">**Yi-Yun Chu**, Pedro Ferreira, and Michael D. Smith </span> <br>
-  <span style="color:gray; font-size:0.85em;">Presented at SCECR 2025 </span><br/>
-  <span style="color:gray; font-size:0.85em;">Scheduled to present at BU Platform Strategy 2025, INFORMS Annual Meeting 2025 </span>
+  <span style="color:gray; font-size:0.85em;">Presented at SCECR 2025, Platform Strategy 2025 </span><br/>
+  <span style="color:gray; font-size:0.85em;">Scheduled to present at CIST 2025, INFORMS Annual Meeting 2025 </span>
 
 - <span style="color:#333333; font-size:1.1em;">**Multimodal Video Learning in Online Education: Managing Cognitive Load Patterns using Guided Attention Graphs**</span> <br/>
   <span style="color:#333333; font-size:1em;">**Yi-Yun Chu**, Zhe Deng, Wen Wang, and Pedro Ferreira</span><br/>
