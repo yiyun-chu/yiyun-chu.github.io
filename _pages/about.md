@@ -53,7 +53,7 @@ Work Experience & Professional Services
 - Netflix, June - Aug, 2024 <br/>
   Research Scientist Intern
 - Organizer of IS Student Presentations Over the Cloud (ISPOC) Seminar, 2023
-- Reviewer: ICIS (2023-2025), CIST (2024-2025), PACIS (2024)
+- Reviewer: ICIS (2023-2025), CIST (2024-2025), PACIS (2024), INFORMS Workshop on Data Science (2025)
 
 Awards
 ------
