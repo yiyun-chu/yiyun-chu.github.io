@@ -25,8 +25,8 @@ My research lies at the intersection of technology, business, and policy, with a
 
 - <span style="color:#333333; font-size:1.1em;">**The Incremental Effect of High-Quality Piracy Sources on Theatrical Revenues** </span><br/>
   <span style="color:#333333; font-size:1em;">**Yi-Yun Chu**, Brett Danaher, and Michael D. Smith </span> <br/>
-  <span style="color:gray; font-size:0.85em; font-style:italic;">Revise and Resubmit at Journal of Management Information Systems <br/>
-  Presented at SCECR 2023</span>
+  <span style="color:gray; font-size:0.85em; font-style:italic;">Revise and Resubmit at Journal of Management Information Systems </span><br/>
+  <span style="color:gray; font-size:0.85em;"> Presented at SCECR 2023</span>
 
 
 ## Digital Credentials and Multimodal Machine Learning
