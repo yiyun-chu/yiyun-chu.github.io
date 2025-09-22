@@ -33,9 +33,9 @@ My research lies at the intersection of technology, business, and policy, with a
 
 - <span style="color:#333333; font-size:1.1em;">**From Views to Value: A Multimodal Analysis of Video Engagement and Learning Outcomes in Online Education** </span> <br/>
   <span style="color:#333333; font-size:1em;">**Yi-Yun Chu**, Pedro Ferreira, and Michael D. Smith </span> <br>
+  <span style="color:gray; font-size:0.85em;">Preparing to submit to Management Science</span><br/>
   <span style="color:gray; font-size:0.85em;">Presented at SCECR 2025, Platform Strategy 2025 </span><br/>
-  <span style="color:gray; font-size:0.85em;">Scheduled to present at CIST 2025, INFORMS Annual Meeting 2025 </span><br/>
-  <span style="color:gray; font-size:0.85em;">Preparing to submit to Management Science</span>
+  <span style="color:gray; font-size:0.85em;">Scheduled to present at CIST 2025, INFORMS Annual Meeting 2025 </span>
 
 - <span style="color:#333333; font-size:1.1em;">**Multimodal Video Learning in Online Education: Managing Cognitive Load Patterns using Guided Attention Graphs**</span> <br/>
   <span style="color:#333333; font-size:1em;">**Yi-Yun Chu**, Zhe Deng, Wen Wang, and Pedro Ferreira</span><br/>
@@ -44,6 +44,7 @@ My research lies at the intersection of technology, business, and policy, with a
 
 - <span style="color:#333333; font-size:1.1em;">**Evaluating Occupational Licensing through Online Consumer Reviews: Evidence from the Personal Care Services** </span><br/>
   <span style="color:#333333; font-size:1em;">**Yi-Yun Chu**, Uttara M. Ananthakrishnan, and Michael D. Smith </span><br/>
+  <span style="color:gray; font-size:0.85em;">Preparing to submit to Marketing Science</span><br/>
   <span style="color:gray; font-size:0.85em;">Presented at SCECR 2024, Yale AIML 2024, ISMS Marketing Science Conference 2025 <br/>
   Scheduled to present at Biz AI 2025 (UTD)</span> <br/>
   <span style="font-size:0.85em; background-color:#e0e0e0; padding:0.1em 0.3em;">
@@ -51,5 +52,5 @@ My research lies at the intersection of technology, business, and policy, with a
   </span><br/>
   <span style="font-size:0.85em; background-color:#e0e0e0; padding:0.1em 0.3em;">
     Received Flash Session Winner award for the "*User Generated Content*" session, ISMS Marketing Science Conference, June 2025
-  </span><br/>
-  <span style="color:gray; font-size:0.85em;">Preparing to submit to Marketing Science</span>
+  </span>
+  
