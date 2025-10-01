@@ -6,8 +6,11 @@ author_profile: true
 ---
 
 ### Conference Presentations:
+- Workshop on Information Systems and Economics (WISE) 2025
+- Conference on Information Systems and Technology (CIST) 2025
+- INFORMS Information Systems Society Doctoral Consortium 2025
 - INFORMS Annual Meeting 2025
-    - Invited Sessions: *Shaping Society with Generative AI: Insights from IS Research*
+    - Invited Sessions: *Technology, Platforms and Society*
 - BU Platform Strategy 2025
 - SCECR 2025
 - ISMS Marketing Science Conference 2025
@@ -22,4 +25,4 @@ author_profile: true
 - **[NBER Digital Economics and AI Meeting, 2025](https://www.nber.org/conferences/digital-economics-and-ai-meeting-spring-2025)**
 
 ### Invited Talks:
-- *Guest Lecturer*, Managing Digital Transformation, 2024
+- *Guest Lecturer*, Managing Digital Transformation, 2024-2025
