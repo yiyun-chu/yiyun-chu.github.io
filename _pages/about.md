@@ -64,6 +64,6 @@ Awards
 - Daniel and Rise Nagin Dissertation Fellowships, 2025
 - Flash Session Winner award for the "*User Generated Content*" session, ISMS Marketing Science Conference, June 2025 
 - George Duncan Second Research Paper Award, CMU, 2025
+- CMU Graduate Student Assembly/Provost Conference Funding, 2025
 - CMU Presidential Fellowship, 2021-Present
 - CMU Graduate Student Assembly/Provost Conference Funding, 2022
-- CMU Graduate Student Assembly/Provost Conference Funding, 2025

@@ -21,3 +21,6 @@ Undergraduate/Graduate Courses. I worked as a Teaching Assistant or Instructor a
 
 ### Undergraduate Level Courses:
 - **95422 Managing Digital Transformation** (Fall 2023, Spring 2024, Fall 2024): Teaching Assistant
+
+### Tutor
+- **90908 Ph.D. Microeconomics** (Fall 2024, Fall 2025)
