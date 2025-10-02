@@ -15,7 +15,11 @@ News
 ------
   <div style="margin-bottom:0.5em;">
     <span style="color:#444;">[Oct 2025]</span>
-    <span style="color:#888;"> Scheduled to present at the INFORMS Annual Meeting 2025, CIST 2025, and WISE 2025</span>
+    <span style="color:#888;"> Scheduled to present at WISE 2025</span>
+  </div>
+  <div style="margin-bottom:0.5em;">
+    <span style="color:#444;">[Sep 2025]</span>
+    <span style="color:#888;"> Scheduled to present at the ISS Doctoral Consortium, INFORMS Annual Meeting and CIST 2025</span>
   </div>
   <div style="margin-bottom:0.5em;">
     <span style="color:#444;">[July 2025]</span>
