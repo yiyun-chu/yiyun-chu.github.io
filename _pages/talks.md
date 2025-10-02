@@ -14,7 +14,7 @@ author_profile: true
 - BU Platform Strategy 2025
 - SCECR 2025
 - ISMS Marketing Science Conference 2025
-- Yale AIML Conference 2024
+- Conference on Artificial Intelligence, Machine Learning, and Business Analytics (AIML) Yale 2024
 - INFORMS Annual Meeting 2024
     - Invited Sessions: *AI Application in Education*
 - SCECR 2024
