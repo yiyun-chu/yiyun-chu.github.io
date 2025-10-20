@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ### Conference Presentations:
+- Conference on Artificial Intelligence, Machine Learning, and Business Analytics (AIML) 2025
+- Workshop on Information Technologies and Systems (WITS) 2025
 - Workshop on Information Systems and Economics (WISE) 2025
 - Conference on Information Systems and Technology (CIST) 2025
 - INFORMS Information Systems Society Doctoral Consortium 2025
@@ -14,7 +16,7 @@ author_profile: true
 - BU Platform Strategy 2025
 - SCECR 2025
 - ISMS Marketing Science Conference 2025
-- Conference on Artificial Intelligence, Machine Learning, and Business Analytics (AIML) Yale 2024
+- Conference on Artificial Intelligence, Machine Learning, and Business Analytics (AIML) 2024
 - INFORMS Annual Meeting 2024
     - Invited Sessions: *AI Application in Education*
 - SCECR 2024

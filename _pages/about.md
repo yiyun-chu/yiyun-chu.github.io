@@ -15,7 +15,7 @@ News
 ------
   <div style="margin-bottom:0.5em;">
     <span style="color:#444;">[Oct 2025]</span>
-    <span style="color:#888;"> Scheduled to present at WISE 2025</span>
+    <span style="color:#888;"> Scheduled to present at WISE, WITS and Conference on AIML and Business Analytics 2025</span>
   </div>
   <div style="margin-bottom:0.5em;">
     <span style="color:#444;">[Sep 2025]</span>
