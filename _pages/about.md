@@ -14,6 +14,10 @@ I am on the job market for 2025-2026.
 News
 ------
   <div style="margin-bottom:0.5em;">
+    <span style="color:#444;">[Dec 2025]</span>
+    <span style="color:#888;"> WITS Best Dissertation Award </span>
+  </div>
+  <!-- <div style="margin-bottom:0.5em;">
     <span style="color:#444;">[Oct 2025]</span>
     <span style="color:#888;"> Scheduled to present at WISE, WITS and Conference on AIML and Business Analytics 2025</span>
   </div>
@@ -24,7 +28,7 @@ News
   <div style="margin-bottom:0.5em;">
     <span style="color:#444;">[July 2025]</span>
     <span style="color:#888;"> Scheduled to present at the BU Platform Strategy</span>
-  </div>
+  </div> -->
   <div style="margin-bottom:0.5em;">
     <span style="color:#444;">[June 2025]</span>
     <span style="color:#888;"> Awarded Daniel and Rise Nagin Dissertation Fellowships</span>
@@ -41,10 +45,10 @@ News
     <span style="color:#444;">[May 2025]</span>
     <span style="color:#888;"> Spending Summer 2025 as a Research Scientist Intern at Netflix</span>
   </div>
-  <div style="margin-bottom:0.5em;">
+  <!-- <div style="margin-bottom:0.5em;">
     <span style="color:#444;">[Feb 2025]</span>
     <span style="color:#888;"> Selected to attend NBER Digital Economics and AI Tutorial</span>
-  </div>
+  </div> -->
   <div style="margin-bottom:0.5em;">
     <span style="color:#444;">[June 2024]</span>
     <span style="color:#888;"> Spending Summer 2024 as a Research Scientist Intern at Netflix</span>
